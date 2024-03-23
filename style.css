@@ -99,3 +99,7 @@ span{
     letter-spacing: -1px;
 
 }
+
+.animate_animated animate__slideInDown{
+    animation-duration: 1s;
+}
